@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll",
+      "Leaf Guard"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "name": "Ivysaur",
+    "type": "Grass",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll",
+      "Leaf Guard"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "name": "Venusaur",
+    "type": "Grass",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll",
+      "Thick Fat"
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "name": "Charmander",
+    "type": "Fire",
+    "abilities": [
+      "Blaze",
+      "Solar Power",
+      "Infiltrator"
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "name": "Charmeleon",
+    "type": "Fire",
+    "abilities": [
+      "Blaze",
+      "Solar Power",
+      "Infiltrator"
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "name": "Charizard",
+    "type": "Fire",
+    "abilities": [
+      "Blaze",
+      "Solar Power",
+      "Tough Claws"
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "name": "Squirtle",
+    "type": "Water",
+    "abilities": [
+      "Torrent",
+      "Rain Dish",
+      "Shell Armor"
+    ]
+  },
+  {
+    "id": 8,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "name": "Wartortle",
+    "type": "Water",
+    "abilities": [
+      "Torrent",
+      "Rain Dish",
+      "Shell Armor"
+    ]
+  },
+  {
+    "id": 9,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "name": "Blastoise",
+    "type": "Water",
+    "abilities": [
+      "Torrent",
+      "Rain Dish",
+      "Mega Launcher"
+    ]
+  },
+  {
+    "id": 10,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "name": "Caterpie",
+    "type": "Bug",
+    "abilities": [
+      "Shield Dust",
+      "Run Away",
+      "Compound Eyes"
+    ]
+  }
+]
